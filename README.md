@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img src="./docs/github_assests//grifano-logo.svg" alt="grifano logo" height="100"/>
 
-## Getting Started
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="./docs/github_assests/js-logo.svg" alt="javascript" height="50"/>
+  <img src="./docs/github_assests/html-logo.svg" alt="html" height="50"/>
+  <img src="./docs/github_assests/css-logo.svg" alt="CSS" height="50"/>
+  <img src="./docs/github_assests/next.svg" alt="CSS" height="50"/>
+  <img src="./docs/github_assests/tailwind.svg" alt="CSS" height="50"/>
+  <img src="./docs/github_assests/vite-logo.svg" alt="vite" height="50"/>
+  <img src="./docs/github_assests/npm-logo.svg" alt="npm" height="50"/>
+</div>
 
-First, run the development server:
+# Hi 👋 there!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+So glad you've dropped by my coding corner. Here, it's all about web design,
+coding magic.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Between coding sessions, I'm probably out cycling 🚴‍♂️ or having fun annoying my
+kids (they secretly love it 😁).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Dive 👀 into my projects, see what sparks joy, and let's chat 💬 about anything
+from tech to the best cycling routes.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Happy exploring!
 
-## Learn More
+# Project: [👉 ADD TITLE!]
 
-To learn more about Next.js, take a look at the following resources:
+<img src="./docs/github_assests//preview.webp" alt="project preview" height="auto" style="border-radius: 20px"/>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Requirements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Build out this dashboard and get it looking as close to the design as possible.
 
-## Deploy on Vercel
+Your users should be able to:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [👉 ADD REQUIREMENTS!]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Tech Stack:
+
+- HTML5;
+- CSS3;
+- JavaScript
+- NextJS 15
+- TailwindCSS
+- Vite
+- Npm
+
+### Links
+
+- Live Site URL: [GitHub Pages](https://grifano.github.io/[👉 ADD LINK!])
+
+## Author
+
+- Frontend Mentor -
+  [Web Development](https://www.frontendmentor.io/profile/grifano)
+- LinkedIn - [Serhii Orlenko](https://www.linkedin.com/in/grifano/)
